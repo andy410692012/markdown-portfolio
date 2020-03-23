@@ -12,5 +12,3 @@ layout: default
 
 {% include 03-links.md %}
 
-[GitHub](http://github.com)
-(https://example.com)
